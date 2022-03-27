@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 咕咕的博客</title>
+    <link>https://www.HongfanGu.github.io/post/</link>
+    <description>Recent content in Posts on 咕咕的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 27 Mar 2022 15:11:00 +0800</lastBuildDate><atom:link href="https://www.HongfanGu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo学习笔记</title>
+      <link>https://www.HongfanGu.github.io/post/2022-3-27-learnhugo/</link>
+      <pubDate>Sun, 27 Mar 2022 15:11:00 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/post/2022-3-27-learnhugo/</guid>
+      <description>Hugo 学习笔记</description>
+    </item>
+    
+    <item>
+      <title>论文阅读 —— QSplat: A Multiresolution Point Rendering System for Large Meshes (2000)</title>
+      <link>https://www.HongfanGu.github.io/post/2021-11-11-qsplat-read-note/</link>
+      <pubDate>Thu, 11 Nov 2021 15:08:31 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/post/2021-11-11-qsplat-read-note/</guid>
+      <description>QSplat论文阅读笔记</description>
+    </item>
+    
+  </channel>
+</rss>

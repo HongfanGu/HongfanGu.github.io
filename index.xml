@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>咕咕的博客</title>
+    <link>https://www.HongfanGu.github.io/</link>
+    <description>Recent content on 咕咕的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 27 Mar 2022 15:11:00 +0800</lastBuildDate><atom:link href="https://www.HongfanGu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo学习笔记</title>
+      <link>https://www.HongfanGu.github.io/post/2022-3-27-learnhugo/</link>
+      <pubDate>Sun, 27 Mar 2022 15:11:00 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/post/2022-3-27-learnhugo/</guid>
+      <description>Hugo 学习笔记</description>
+    </item>
+    
+    <item>
+      <title>论文阅读 —— QSplat: A Multiresolution Point Rendering System for Large Meshes (2000)</title>
+      <link>https://www.HongfanGu.github.io/post/2021-11-11-qsplat-read-note/</link>
+      <pubDate>Thu, 11 Nov 2021 15:08:31 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/post/2021-11-11-qsplat-read-note/</guid>
+      <description>QSplat论文阅读笔记</description>
+    </item>
+    
+    <item>
+      <title>常用软件 安装包大全</title>
+      <link>https://www.HongfanGu.github.io/tools/package/</link>
+      <pubDate>Mon, 11 Oct 2021 17:27:32 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/tools/package/</guid>
+      <description>本篇文章汇总了绝大部分软件安装包</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://www.HongfanGu.github.io/about/</link>
+      <pubDate>Sun, 03 Oct 2021 15:42:39 +0800</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/about/</guid>
+      <description>一名普普通通的研究生，平时喜欢琢磨一些小玩意，会一点C++， C#， Javascript， Python，也写过一些游戏脚本。 参与过一些基于Vue + Cesium的Web平台搭建，也写过基于OpenGL的大规模点云可视化软件。 下面打个广告！ 我自己的服务型公众号，平时有点外卖的朋友或者喜欢网购领券的朋友都可以关注一下，感谢支持！</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://www.HongfanGu.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://www.HongfanGu.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.HongfanGu.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
