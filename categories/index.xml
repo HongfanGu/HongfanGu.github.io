@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 咕咕的博客</title>
-    <link>https://www.HongfanGu.github.io/categories/</link>
+    <link>www.HongfanGu.github.io/categories/</link>
     <description>Recent content in Categories on 咕咕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Mar 2022 15:11:00 +0800</lastBuildDate><atom:link href="https://www.HongfanGu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Mar 2022 15:11:00 +0800</lastBuildDate><atom:link href="www.HongfanGu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学习笔记</title>
-      <link>https://www.HongfanGu.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>www.HongfanGu.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Sun, 27 Mar 2022 15:11:00 +0800</pubDate>
       
-      <guid>https://www.HongfanGu.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>www.HongfanGu.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>论文阅读</title>
-      <link>https://www.HongfanGu.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
+      <link>www.HongfanGu.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
       <pubDate>Thu, 11 Nov 2021 15:08:31 +0800</pubDate>
       
-      <guid>https://www.HongfanGu.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</guid>
+      <guid>www.HongfanGu.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>软件安装包</title>
-      <link>https://www.HongfanGu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85/</link>
+      <link>www.HongfanGu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85/</link>
       <pubDate>Mon, 11 Oct 2021 17:27:32 +0800</pubDate>
       
-      <guid>https://www.HongfanGu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85/</guid>
+      <guid>www.HongfanGu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85/</guid>
       <description></description>
     </item>
     
